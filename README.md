@@ -1,6 +1,6 @@
 <p align="center">
   <im<p align="center">
-   <img src="https://telegra.ph/file/91b93e3df64d237df5643.jpg" alt="NARUTO">
+   <img src="[https://telegra.ph/file/91b93e3df64d237df5643.jpg](https://graph.org/file/30cc391dbc81a5f92ae8a.jpg)" alt="NARUTO">
 
 <a href="https://t.me/narutoxv4bot">
   <img src="https://img.shields.io/badge/ʙᴏᴛ-red?logo=telegram" width="80">
